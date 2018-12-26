@@ -1,4 +1,7 @@
 // JavaScript Document
+var doCoolStuff = function () {
+	document.getElementById('cool').className = 'cool red';
+}
 var car = {
 			make: 'Chevy',
 			type: 'Silverado',
